@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ROBLOXFEETRADNOTI4EVER&label=Profile views&color=0e75b6&style=flat" alt="ROBLOXFEETRADNOTI4EVER" /> </p>
 
-- 🔭 I'm currently working on **Autonomous drone mesh network **
+- 🔭 I'm currently working on **Autonomous drone mesh network**
 
 - 🌱 I'm currently learning **Rust,C,C++**
 
-- 👯 I'm looking to collaborate on **Anything space related **
+- 👯 I'm looking to collaborate on **Anything space related**
 
-- 🤝 I'm looking for help with **making pcb's **
+- 🤝 I'm looking for help with **making pcb's**
 
 - 💬 Ask me about **Anything**
 
