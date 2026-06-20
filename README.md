@@ -1,6 +1,6 @@
 # Hi 👋, I'm Szabó Balázs
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ROBLOXFEETRADNOTI4EVER&label=Profile views&color=0e75b6&style=flat" alt="ROBLOXFEETRADNOTI4EVER" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ROBLOXFEETRADNOTI4EVER&label=Profile views&color=0e75b6&style=flat" alt="BalazsRust" /> </p>
 
 - 🔭 I'm currently working on **Autonomous drone mesh network**
 
